@@ -1,12 +1,17 @@
-## Hi there 👋
+# Universal Connect Project
 
-<!--
+Welcome to the code repository for the Universal Connect Project. Here you will find code, architectural design, 
+documentation, API specifications, and more. 
 
-**Here are some ideas to get you started:**
+This project is a work in progress. Pull requests are welcome.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What is the Universal Connect Project?
+
+Whether you are an established financial institution with existing data providers or a one-person startup 
+the Universal Connect Project (UCP) is the right way to connect to financial services like banks, credit unions and 
+wealth managers.
+
+More info at [https://universalconnectproject.org](https://universalconnectproject.org)
+
+
+
