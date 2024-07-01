@@ -15,7 +15,7 @@ More info at [https://universalconnectproject.org](https://universalconnectproje
 
 ## Documentation
 
-The documentation for the UCW is located at [https://docs.universalconnectproject.org](https://docs.universalconnectproject.org) (Coming soon...).
+The documentation for the UCP is located at [https://docs.universalconnectproject.org](https://docs.universalconnectproject.org) (Coming soon...).
 Here you can find an implementation guide, API specifications, and more.
 
 ## Project Structure
