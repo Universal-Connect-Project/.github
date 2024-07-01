@@ -1,6 +1,6 @@
 # Universal Connect Project
 
-Welcome to the code repository for the Universal Connect Project. Here you will find code, architectural design, 
+Welcome to the GitHub project for the Universal Connect Project. Here you will find code, architectural design, 
 documentation, API specifications, and more. 
 
 This project is a work in progress. Pull requests are welcome.
@@ -30,8 +30,3 @@ their purpose.
 - [Widget Component](https://github.com/Universal-Connect-Project/universal-connect-widget-new) - This is the Widget React Component. This is the core of the Universal Connect Widget UI, and 
 is packaged as an NPM package. It does not need to be implemented directly, rather the NPM package is used by the 
 UCW App project.
-- Widget Client Library - More info to come.
-
-
-
-
