@@ -3,7 +3,7 @@
 Welcome to the GitHub project for the Universal Connect Project. Here you will find code, architectural design, 
 documentation, API specifications, and more. 
 
-This project is a work in progress. Pull requests are welcome.
+This project is a work-in-progress. Pull requests are welcome.
 
 ## What is the Universal Connect Project?
 
@@ -15,7 +15,7 @@ More info at [https://universalconnectproject.org](https://universalconnectproje
 
 ## Documentation
 
-The documentation for the UCP is located at [https://docs.universalconnectproject.org](https://docs.universalconnectproject.org) (Coming soon...).
+The documentation for the UCP is located at [https://universalconnectproject.org/docs/introduction](https://universalconnectproject.org/docs/introduction).
 Here you can find an implementation guide, API specifications, and more.
 
 ## Project Structure
